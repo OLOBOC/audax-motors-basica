@@ -8,9 +8,9 @@ export const COMPANY = {
   slogan: "Impulsados por la pasión",
   shortSlogan: "Compraventa de vehículos de ocasión",
   description: "Especialistas en compraventa y gestión integral de vehículos seleccionados en Gijón, Asturias. Pasión automovilística, transparencia y rigor en cada operación.",
-  heroHeadline: "Tu concesionario de",
-  heroHighlight: "confianza y selección.",
-  heroSubtitle: "Compraventa y gestión de vehículos de ocasión con trato directo y revisión honesta en La Pedrera, Gijón.",
+  heroHeadline: "Compra y vende tu",
+  heroHighlight: "coche sin líos.",
+  heroSubtitle: "Tasación real, trato directo y vehículos seleccionados en Gijón. Si vendes, te damos una oferta clara. Si quieres comprar, mira primero lo que publicamos en Instagram.",
 
   // ─── Datos de contacto ───────────────────────────────────
   phone: "672 944 379",
@@ -32,8 +32,8 @@ export const COMPANY = {
 
   // ─── Métricas de confianza (Hero) ────────────────────────
   trustStats: [
-    { value: "+5 Años", label: "En el sector" },
-    { value: "Asturias", label: "Nos desplazamos" },
+    { value: "24h", label: "Tasación rápida" },
+    { value: "Asturias", label: "A tu lado" },
     { value: "100%", label: "Papeleo incluido" },
   ],
 };
